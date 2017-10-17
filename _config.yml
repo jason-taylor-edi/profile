@@ -1,6 +1,6 @@
 
-title: My Resume
-url: 'gouravshenoy.github.io'
+title: Jason Taylor
+url: 'jason-taylor-edi.github.io'
 baseurl: '/profile' #change it according to your repository name
 
 
@@ -15,16 +15,16 @@ style: styles-6
 #Profile information
 name: Jason Taylor
 tagline: PhD student in CSTR
-pic: gourav_image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: IMG_0835.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: goshenoy@indiana.edu
-phone: 812 360 9729
-website: gouravshenoy.github.io #do not add http://
-linkedin: gouravshenoy
-github: gouravshenoy
-twitter: '@GouravShenoy'
-facebook: gourav.shenoy
-instagram: gourav_shenoy
+email: first last 18 at outlook dot com
+# phone: 0754519
+# website: gouravshenoy.github.io #do not add http://
+linkedin: jason-taylor-edi
+# github: gouravshenoy
+# twitter: '@GouravShenoy'
+# facebook: gourav.shenoy
+# instagram: gourav_shenoy
 
 #Update all the sections by editing the files inside _includes folder.

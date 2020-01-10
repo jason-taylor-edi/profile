@@ -14,11 +14,11 @@ style: styles-6
 
 #Profile information
 name: Jason Taylor
-tagline: first (dot) last (at) ed (dot) ac (dot) uk
+tagline: PhD student in CSTR
 pic: closer.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-#email: First (dot) Last (at) ed (dot) ac (dot) uk (1st letters of names as capitals)
+email: First (dot) Last (at) ed (dot) ac (dot) uk
 # phone: 0754519
 # website: gouravshenoy.github.io #do not add http://
 linkedin: jason-taylor-edi

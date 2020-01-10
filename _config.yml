@@ -15,7 +15,7 @@ style: styles-6
 #Profile information
 name: Jason Taylor
 tagline: first (dot) last (at) ed (dot) ac (dot) uk
-pic: IMG_0835.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: pro_is.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 #email: First (dot) Last (at) ed (dot) ac (dot) uk (1st letters of names as capitals)
